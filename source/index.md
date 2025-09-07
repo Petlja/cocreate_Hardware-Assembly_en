@@ -41,4 +41,8 @@ This course is published by Petlja Foundation under the
 :caption: Contents
 :hidden:
 
-detailed/index
+intro/index
+Session1/index
+Session2/index
+Session3/index
+Session4/index
