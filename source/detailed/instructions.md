@@ -1,8 +1,8 @@
 Extinguisher Type# HARDWARE ASSEMBLY
 
-# COURSE
+## COURSE
 
-## ABOUT THE COURSE
+### ABOUT THE COURSE
 
 **OBJECTIVES**
 
@@ -23,7 +23,7 @@ Students participating in this activity should already be familiar with the comp
 - Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
 - Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
 
-## COURSE DESCRIPTION
+### COURSE DESCRIPTION
 
 In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process across four sessions.
 
@@ -64,23 +64,23 @@ By the end of this course, each student should be able to:
 
 **Collaboration Skills**
 
-1. We are all equal and we respect one another. — 1 2 3 4  
-2. We foster a good atmosphere even when we think differently. — 1 2 3 4  
-3. We are all responsible for group work; all members share responsibility for results. — 1 2 3 4  
-4. We help everyone contribute to group work. — 1 2 3 4  
-5. We strive to involve everyone in decision-making. — 1 2 3 4  
-6. The more ideas we consider, the more certain we are we selected the best one. — 1 2 3 4  
-7. We expound on every idea, weigh arguments, and devise solutions. — 1 2 3 4  
-8. We wisely use our time to work on the task. — 1 2 3 4  
+1. We are all equal and we respect one another. — 1 2 3 4 [1]  
+2. We foster a good atmosphere even when we think differently. — 1 2 3 4 [1]  
+3. We are all responsible for group work; all members share responsibility for results. — 1 2 3 4 [1]  
+4. We help everyone contribute to group work. — 1 2 3 4 [1]  
+5. We strive to involve everyone in decision-making. — 1 2 3 4 [1]  
+6. The more ideas we consider, the more certain we are we selected the best one. — 1 2 3 4 [1]  
+7. We expound on every idea, weigh arguments, and devise solutions. — 1 2 3 4 [1]  
+8. We wisely use our time to work on the task. — 1 2 3 4 [1]  
 9. We monitor our progress and contemplate our next step. — 1 2 3 4
 
 ---
 
-# SESSION 1 — COLLABORATION AND SAFETY RULES
+## SESSION 1 — COLLABORATION AND SAFETY RULES
 
 In this session: form teams, learn **how to collaborate effectively**, and review **safety protocols** for safely removing and handling components.
 
-## Group formation and tasks overview
+### Group formation and tasks overview
 
 Work in <u>groups of three</u> to:
 
@@ -88,7 +88,7 @@ Work in <u>groups of three</u> to:
 - Step 2. Compile a hardware inventory of disassembled components with technical specifications in the tutorial.
 - Step 3. Reassemble the computer and create an assembly tutorial with stepwise photos and descriptions.
 
-## How to collaborate effectively
+### How to collaborate effectively
 
 Follow these rules to ensure an **inclusive, respectful, and co-responsible** collaboration process; group assessment reflects how effectively these are demonstrated.
 
@@ -102,46 +102,46 @@ Follow these rules to ensure an **inclusive, respectful, and co-responsible** co
 - 8. We use time wisely to work on the task.
 - 9. We monitor progress and plan the next step.
 
-## Exercise: discuss problematic situations
+### Exercise: discuss problematic situations
 
 Discuss the following situations and agree on a solution; reflect on: (1) what went wrong and which rules were violated, (2) which rules the group applied to solve it, (3) lessons to improve future teamwork.
 
-1) One student admits no prior experience and is allowed to sit aside, contributing minimally and feeling excluded by session end.  
-2) A missing screw leads to blaming and tension, harming atmosphere and progress.  
-3) Disagreement on removal order escalates into argument and lost time, yielding confusing tutorial notes.  
-4) Disagreement about tutorial detail level (short notes vs. long explanations) blocks progress.  
+1) One student admits no prior experience and is allowed to sit aside, contributing minimally and feeling excluded by session end. [1]  
+2) A missing screw leads to blaming and tension, harming atmosphere and progress. [1]  
+3) Disagreement on removal order escalates into argument and lost time, yielding confusing tutorial notes. [1]  
+4) Disagreement about tutorial detail level (short notes vs. long explanations) blocks progress. [1]  
 5) Assigned photographer’s photos are blurry and incomplete, preventing tutorial completion and upsetting others.
 
-## SAFETY PROTOCOLS
+### SAFETY PROTOCOLS
 
 Before handling hardware, follow safety rules to protect people, equipment, and environment; mistakes can cause injuries, damage, or hazards like fire and electric shock.
 
 We review eight key areas:
 
-1. Workplace Safety  
-2. Accident Prevention  
-3. General Risk Factors  
-4. General Risk Factors in Computer Handling  
-5. Safety Signs  
-6. Workshop Precautions  
-7. Methods and Systems for Fire Extinguishing  
+1. Workplace Safety [1]  
+2. Accident Prevention [1]  
+3. General Risk Factors [1]  
+4. General Risk Factors in Computer Handling [1]  
+5. Safety Signs [1]  
+6. Workshop Precautions [1]  
+7. Methods and Systems for Fire Extinguishing [1]  
 8. First Aid
 
-### 1) Workplace safety
+#### 1) Workplace safety
 
 Set of **techniques and procedures** to eliminate or reduce risk of workplace accidents and damage to people, property, and environment, aiming to prevent accidents and minimize consequences.
 
-### 2) Accident prevention
+#### 2) Accident prevention
 
 Prevent abnormal, unintended, avoidable events that interrupt work and may cause injuries by knowing risks, accepting it can happen anytime and to anyone, and understanding real consequences and losses.
 
-### 3) General risk factors
+#### 3) General risk factors
 
 - Environmental setting: Ensure thermal, visual, and acoustic comfort to avoid errors, distractions, fatigue, or irritability.
 - Organization: Training, information, communication, and group relationships should support comfortable, well-adapted work.
 - Psychic comfort: Discomfort may appear short-term (irritability, anxiety), medium-term (sleep disturbances, headaches), or long-term (depression, GI, cardiovascular, skin issues).
 
-### 4) General risk factors in computer handling
+#### 4) General risk factors in computer handling
 
 - Electrical installations: Power can cause electric shock.
 - Materials with fire risk: Short circuits may cause fires in devices and building systems.
@@ -151,11 +151,11 @@ Prevent abnormal, unintended, avoidable events that interrupt work and may cause
 - Handling loads: Carrying heavy materials can injure.
 - Mental load and addiction: Long concentration can be a risk; excessive computer use can lead to addictions requiring attention.
 
-### 5) Safety signs
+#### 5) Safety signs
 
 Know and respect warning signs on equipment and packaging.
 
-![](./media/image42.png)  
+![](./media/image42.png) [1]  
 ![](./media/image23.png)
 
 Besides precautions, check compliance with major regulations, especially those of the European Community.
@@ -169,7 +169,7 @@ Besides precautions, check compliance with major regulations, especially those o
 - Regulated by German standards (Geprüfte Sicherheit):  
   ![](./media/image39.png)
 
-### 6) Workshop precautions
+#### 6) Workshop precautions
 
 ![](./media/image6.png)
 
@@ -181,7 +181,7 @@ Besides precautions, check compliance with major regulations, especially those o
 - Toxicity: Some components may be toxic, often via wounds. ![](./media/image22.png)
 - Short circuit or fire: Avoid conductive liquids and loose metal objects; ensure ventilation isn’t blocked.
 
-### 7) Methods and systems for fire extinguishing
+#### 7) Methods and systems for fire extinguishing
 
 Extinguishing methods: oxygen suppression, fuel suppression, heat removal, projection of chemicals.
 
@@ -208,7 +208,7 @@ Suitable extinguishers by class:
 
 When dealing with electrical equipment (e.g., computers), use a **Class C extinguisher** (e.g., CO₂ or Halotron) to avoid conduction and device damage.
 
-### 8) First aid
+#### 8) First aid
 
 - Treatment of wounds: Clean with water and mild soap, disinfect with alcohol, remove foreign objects if present, disinfect again, leave exposed if safe or cover with a bandage.
 - Treatment of burns: Remove clothing not stuck to skin, immerse in cold water 10 minutes (repeat every 40 minutes if pain persists), see a doctor if pain does not subside.
@@ -219,24 +219,24 @@ Summary sheet of Safety Rules for Computer Assembly and Disassembly:
 
 ![](./media/image1.png)
 
-## TEST WHAT YOU HAVE LEARNED
+### TEST WHAT YOU HAVE LEARNED
 
 - Exercise 1: Answer questions individually in own words.
 - Exercise 2: Match pictograms with their meaning via drag-and-drop.
 
 Labels and final solution list:
 
-1. Electrostatic discharge  
-2. High Voltage Electrical hazard  
-3. Laser hazard  
-4. Explosion hazard  
-5. General warning  
-6. Fragile hazard  
-7. High temperature hazard  
-8. Hot surface hazard  
-9. Burn hazard  
-10. UL component mark for the US and Canada  
-11. EU certification mark  
+1. Electrostatic discharge [1]  
+2. High Voltage Electrical hazard [1]  
+3. Laser hazard [1]  
+4. Explosion hazard [1]  
+5. General warning [1]  
+6. Fragile hazard [1]  
+7. High temperature hazard [1]  
+8. Hot surface hazard [1]  
+9. Burn hazard [1]  
+10. UL component mark for the US and Canada [1]  
+11. EU certification mark [1]  
 12. European Norms Electrical Certification
 
 ![](./media/image2.png)
@@ -245,7 +245,7 @@ Labels and final solution list:
 
 ---
 
-# SESSION 2 — DEVELOPING A DISASSEMBLY TUTORIAL
+## SESSION 2 — DEVELOPING A DISASSEMBLY TUTORIAL
 
 In this session: collaborate to **disassemble a computer** and develop a **disassembly tutorial** with sequential photos and descriptions.
 
@@ -253,7 +253,7 @@ Use the provided Disassembly & Assembly Tutorial Template (Disassembly Process s
 
 ![](./media/image28.png)
 
-## Disassembly instructions
+### Disassembly instructions
 
 Disassembly breaks a device into separate parts.
 
@@ -280,13 +280,13 @@ Procedure:
 | 8. Remove expansion cards | Disconnect cables attached to the card and remove it. ![](./media/image41.png) |
 | 9. Remove motherboard | Disconnect all cables from the motherboard and remove it. ![](./media/image29.png) |
 
-## Progress report
+### Progress report
 
 At session end, record group progress and individual contributions in the classroom journal.
 
 ---
 
-# SESSION 3 — CREATING A HARDWARE INVENTORY
+## SESSION 3 — CREATING A HARDWARE INVENTORY
 
 In this session: collaborate to **identify and document** technical specifications of the **disassembled components** and create a **hardware inventory**.
 
@@ -296,13 +296,13 @@ Use the Hardware Inventory section of the Disassembly & Assembly Tutorial Templa
 
 ![](./media/image28.png)
 
-## Progress report
+### Progress report
 
 At session end, record group progress and individual contributions in the classroom journal.
 
 ---
 
-# SESSION 4 — DEVELOPING AN ASSEMBLY TUTORIAL
+## SESSION 4 — DEVELOPING AN ASSEMBLY TUTORIAL
 
 In this session: collaborate to safely **assemble a computer** and develop an **assembly tutorial** with stepwise photos and descriptions.
 
@@ -310,7 +310,7 @@ Use the Assembly Process section of the Disassembly & Assembly Tutorial Template
 
 ![](./media/image28.png)
 
-## Assembly instructions
+### Assembly instructions
 
 Computer assembly fits internal components in correct sequence to make the system functional; arrange parts before starting.
 
@@ -338,16 +338,16 @@ Materials required:
 | 8. Connect external cables | Connect monitor (e.g., VGA), keyboard (USB), audio (speakers/headphones/mic), power cable, and peripherals (printer/scanner/webcam). ![](./media/image53.png) ![](./media/image25.png) ![](./media/image7.png) ![](./media/image47.png) ![](./media/image12.png) |
 | 9. Starting the computer | Press system power first, then monitor; OS (e.g., Windows or Linux) begins loading. ![](./media/image43.png) |
 
-## Submit your final product
+### Submit your final product
 
 Review the completed template as a group, download it, and submit it in Google Classroom.
 
-## Progress report
+### Progress report
 
 At session end, record group progress and individual contributions in the classroom journal.
 
 ---
 
-# RESOURCES
+## RESOURCES
 
 (Placeholders for platform embeds and icons; external URLs omitted for portability.)
