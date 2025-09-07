@@ -1,5 +1,5 @@
-Extinguisher Type# HARDWARE ASSEMBLY
-
+# HARDWARE ASSEMBLY
+<!-- 
 ## COURSE
 
 ### ABOUT THE COURSE
@@ -64,14 +64,14 @@ By the end of this course, each student should be able to:
 
 **Collaboration Skills**
 
-1. We are all equal and we respect one another. — 1 2 3 4 [1]  
-2. We foster a good atmosphere even when we think differently. — 1 2 3 4 [1]  
-3. We are all responsible for group work; all members share responsibility for results. — 1 2 3 4 [1]  
-4. We help everyone contribute to group work. — 1 2 3 4 [1]  
-5. We strive to involve everyone in decision-making. — 1 2 3 4 [1]  
-6. The more ideas we consider, the more certain we are we selected the best one. — 1 2 3 4 [1]  
-7. We expound on every idea, weigh arguments, and devise solutions. — 1 2 3 4 [1]  
-8. We wisely use our time to work on the task. — 1 2 3 4 [1]  
+1. We are all equal and we respect one another. — 1 2 3 4  
+2. We foster a good atmosphere even when we think differently. — 1 2 3 4  
+3. We are all responsible for group work; all members share responsibility for results. — 1 2 3 4  
+4. We help everyone contribute to group work. — 1 2 3 4  
+5. We strive to involve everyone in decision-making. — 1 2 3 4  
+6. The more ideas we consider, the more certain we are we selected the best one. — 1 2 3 4  
+7. We expound on every idea, weigh arguments, and devise solutions. — 1 2 3 4  
+8. We wisely use our time to work on the task. — 1 2 3 4  
 9. We monitor our progress and contemplate our next step. — 1 2 3 4
 
 ---
@@ -106,10 +106,10 @@ Follow these rules to ensure an **inclusive, respectful, and co-responsible** co
 
 Discuss the following situations and agree on a solution; reflect on: (1) what went wrong and which rules were violated, (2) which rules the group applied to solve it, (3) lessons to improve future teamwork.
 
-1) One student admits no prior experience and is allowed to sit aside, contributing minimally and feeling excluded by session end. [1]  
-2) A missing screw leads to blaming and tension, harming atmosphere and progress. [1]  
-3) Disagreement on removal order escalates into argument and lost time, yielding confusing tutorial notes. [1]  
-4) Disagreement about tutorial detail level (short notes vs. long explanations) blocks progress. [1]  
+1) One student admits no prior experience and is allowed to sit aside, contributing minimally and feeling excluded by session end.  
+2) A missing screw leads to blaming and tension, harming atmosphere and progress.  
+3) Disagreement on removal order escalates into argument and lost time, yielding confusing tutorial notes.  
+4) Disagreement about tutorial detail level (short notes vs. long explanations) blocks progress.  
 5) Assigned photographer’s photos are blurry and incomplete, preventing tutorial completion and upsetting others.
 
 ### SAFETY PROTOCOLS
@@ -118,13 +118,13 @@ Before handling hardware, follow safety rules to protect people, equipment, and 
 
 We review eight key areas:
 
-1. Workplace Safety [1]  
-2. Accident Prevention [1]  
-3. General Risk Factors [1]  
-4. General Risk Factors in Computer Handling [1]  
-5. Safety Signs [1]  
-6. Workshop Precautions [1]  
-7. Methods and Systems for Fire Extinguishing [1]  
+1. Workplace Safety  
+2. Accident Prevention  
+3. General Risk Factors  
+4. General Risk Factors in Computer Handling  
+5. Safety Signs  
+6. Workshop Precautions  
+7. Methods and Systems for Fire Extinguishing  
 8. First Aid
 
 #### 1) Workplace safety
@@ -155,7 +155,7 @@ Prevent abnormal, unintended, avoidable events that interrupt work and may cause
 
 Know and respect warning signs on equipment and packaging.
 
-![](./media/image42.png) [1]  
+![](./media/image42.png)  
 ![](./media/image23.png)
 
 Besides precautions, check compliance with major regulations, especially those of the European Community.
@@ -226,17 +226,17 @@ Summary sheet of Safety Rules for Computer Assembly and Disassembly:
 
 Labels and final solution list:
 
-1. Electrostatic discharge [1]  
-2. High Voltage Electrical hazard [1]  
-3. Laser hazard [1]  
-4. Explosion hazard [1]  
-5. General warning [1]  
-6. Fragile hazard [1]  
-7. High temperature hazard [1]  
-8. Hot surface hazard [1]  
-9. Burn hazard [1]  
-10. UL component mark for the US and Canada [1]  
-11. EU certification mark [1]  
+1. Electrostatic discharge  
+2. High Voltage Electrical hazard  
+3. Laser hazard  
+4. Explosion hazard  
+5. General warning  
+6. Fragile hazard  
+7. High temperature hazard  
+8. Hot surface hazard  
+9. Burn hazard  
+10. UL component mark for the US and Canada  
+11. EU certification mark  
 12. European Norms Electrical Certification
 
 ![](./media/image2.png)
@@ -350,4 +350,4 @@ At session end, record group progress and individual contributions in the classr
 
 ## RESOURCES
 
-(Placeholders for platform embeds and icons; external URLs omitted for portability.)
+(Placeholders for platform embeds and icons; external URLs omitted for portability.) -->
