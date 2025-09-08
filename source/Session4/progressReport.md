@@ -1,4 +1,8 @@
-# Progress Report
+# Final product
+
+Well done on completing the Assembly Process, your template is now complete and will serve as your final product for the course. Take time to review it carefully as a group and then download it and submit it in Google Classroom. 
+
+## Progress Report
 
 At session end, record group progress and individual contributions in the classroom journal.
 

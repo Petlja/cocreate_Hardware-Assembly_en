@@ -3,6 +3,8 @@
 In this session:
 - Collaborate to safely **assemble a computer**
 - Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
+- Collaborate in your groups to safely **assemble a computer**.
+- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
 
 ## Disassembly & Assembly Tutorial Template:
 
@@ -16,7 +18,9 @@ Use the **Assembly Process** section of the provided *Disassembly & Assembly Tut
 
 ## Assembly instructions
 
-Computer assembly fits internal components in correct sequence to make the system functional; arrange parts before starting.
+Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
+
+It is a systematic process. Start by arranging the computer parts.
 
 Materials required:
 
@@ -32,15 +36,15 @@ Materials required:
 
 | Step | Instructions |
 |---|---|
-| 1. Open the case | Remove screws of the left side cover and slide it off. ![](./media/image31.png) |
-| 2. Install the power supply | Attach PSU to case with four screws. ![](./media/image20.png) |
-| 3. Attach components to the motherboard | Prepare motherboard by installing CPU, then heat sink, then CPU fan; connect CPU fan cable to CPU_FAN header. ![](./media/image46.png) ![](./media/image54.png) ![](./media/image14.png) ![](./media/image13.png) ![](./media/image44.png) |
-| 4. Install the motherboard | Install the prepared motherboard into the case with standoffs and screws. ![](./media/image34.png) |
-| 5. Install internal drives | For HDD, connect PSU power to drive and SATA data cable to motherboard. ![](./media/image37.png) |
-| 6. Connect all internal cables | Connect required power and data cables to distribute electricity and enable data transfer. ![](./media/image52.png) |
-| 7. Install motherboard power connections | ATX main power connector has 20 or 24 pins; connect appropriately. ![](./media/image18.png) |
-| 8. Connect external cables | Connect monitor (e.g., VGA), keyboard (USB), audio (speakers/headphones/mic), power cable, and peripherals (printer/scanner/webcam). ![](./media/image53.png) ![](./media/image25.png) ![](./media/image7.png) ![](./media/image47.png) ![](./media/image12.png) |
-| 9. Starting the computer | Press system power first, then monitor; OS (e.g., Windows or Linux) begins loading. ![](./media/image43.png) |
+| 1. Open the case | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> The first step in assembling a computer is to open the computer case. To open the case, first remove the screws of the left side cover and slide the slide cover. |
+| 2. Install the power supply | ![](./images/S2.png) <br> The next step is to install a power supply. There are usually four screws that attach the power supply to the case. |
+| 3. Attach components to the motherboard | ![](./images/S3a.png) <br> The motherboard has to be prepared before its installation. To prepare the motherboard, you first need to install the CPU, then the heat sink on the CPU, and then the CPU fan. <br> ![](./images/S3b.png) <br> CPU:<br> A CPU socket uses a series of pins to connect a CPU’s processor to the PC’s motherboard. A CPU is connected via a CPU socket. <br> ![](./images/S3c.png) <br> Heat sink and fan assembly:<br> A Heat Sink and Fan (HSF) is an active cooling situation used to cool down integrated circuits in computer systems, commonly the Central Processing Unit (CPU). <br> ![](./images/S3d.png) <br> Connect the assembly power cable to the CPU fan connector on the motherboard. <br> ![](./images/S3e.png) <br> Installation of RAM: <br> To install the RAM, first install it on the motherboard and then fix the motherboard in the case. To install the RAM, first ensure its compatibility with the motherboard. |
+| 4. Install the motherboard | ![](./images/S4.png) <br> After preparing the motherboard, you can install the computer case.|
+| 5. Install internal drives | ![](./images/S5.png) <br> Hard drive - The hard drive is the device which stores all data. Connect the power cable coming from the SMPS to the power socked of the hard disk drive. Connect the SATA data cable from the hard disk drive socket to the motherboard socket. |
+| 6. Connect all internal cables | ![](./images/S6.png) <br> Power cables are used to distribute electricity from the power supply to the motherboard and other components. Data cables transmit data between the motherboard and storage devices, such as hard drives. |
+| 7. Install motherboard power connections | ![](./images/S7.png) <br> The Advanced Technology Extended (ATX) main power connector will have either 20 or 24 pins. |
+| 8. Connect external cables | ![](./images/S8a.png) <br> Connect the monitor - The VGA cable is used to connect to the monitor. ![](./images/S8b.png) <br> Connect the keyboard - If it uses a USB connector, plug it into any of the USB ports on the back of the computer. ![](./images/S8c.png) <br> Connect headphones or speakers, and microphone - Connect the external speakers or headphones, to the computer’s audio port (either on the front or back of the computer case). ![](./images/S8d.png) <br> Connect the computer to a power supply - Connect the power supply cable into the back of the computer case.  ![](./images/S8e.png) <br> Connect the printer, scanner and webcam |
+| 9. Starting the computer | ![](./images/S9.png) <br>Always remember that the first step is to push the power button of the CPU, then the monitor’s. An operating system or system software like Window or Linux will start loading. Now your computer is ready to use. |
 
 ## Submit your final product
 
