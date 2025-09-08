@@ -23,6 +23,8 @@ Students participating in this activity should already be familiar with the comp
 
 In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
 
+## Sessions
+
 ### Session 1 - Collaboration and Safety Rules
 
 We will form work groups, review **collaboration tips** to guide your teamwork in completing the activity, and go over **safety protocols** for handling hardware components.

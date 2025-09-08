@@ -1,11 +1,18 @@
-# SESSION 1 — COLLABORATION AND SAFETY RULES
+# Creating a Hardware Inventory
 
-In this session: form teams, learn **how to collaborate effectively**, and review **safety protocols** for safely removing and handling components.
+In this session:
+- Collaborate in your groups to **identify and document** the technical specifications of the components of the **disassembled computer**. 
+- Create a **hardware inventory** of the components identified. 
 
-## Group formation and tasks overview
+Group members should divide the components among themselves to work in parallel, carefully examining each part to determine its brand, model, and key specifications. 
 
-Work in <u>groups of three</u> to:
+## Disassembly & Assembly Tutorial Template:
 
-- Step 1. Disassemble one computer per group and develop a disassembly tutorial with stepwise photos and descriptions.
-- Step 2. Compile a hardware inventory of disassembled components with technical specifications in the tutorial.
-- Step 3. Reassemble the computer and create an assembly tutorial with stepwise photos and descriptions.
+Use the **Hardware Inventory** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
+
+```{raw} html
+<div style="text-align: center">
+    <iframe src="https://docs.google.com/document/d/18J_qKyfmHlTXNZIo0ZqgH_LuOgD4V9fQ0w-TetFaJcc/edit?usp=sharing" width="100%" height="600px" frameborder="0"></iframe>
+</div>
+```
+
