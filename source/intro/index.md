@@ -7,4 +7,5 @@ status: exclude
 :maxdepth: 2
 
 about_course
+requirementsAndAssessment
 ```
