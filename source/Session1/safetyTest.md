@@ -14,7 +14,7 @@
 
 ## Exercise 2:
 
-```{infonote} 
+<!-- ```{infonote} 
 **We need external drag and drop functionality short term!!!**
 ```
 
@@ -22,8 +22,164 @@
 :width: 100%
 :align: center
 :alt: Diagram of the drag and drop exercise.
+``` -->
+
+```{mchoice}
+:answer1: Electrostatic discharge;
+:answer2: Hot surface;
+:answer3: Burn;
+:correct: 1
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg1.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
 ```
 
+```{mchoice}
+:answer1: Laser;
+:answer2: General warning;
+:answer3: High voltage;
+:correct: 2
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg2.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+
+```{mchoice}
+:answer1: Electrostatic discharge;
+:answer2: Burn;
+:answer3: Hot surface;
+:correct: 2
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg3.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: EU certification mark;
+:answer2: General warning;
+:answer3: High voltage;
+:correct: 3
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg4.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Fragile;
+:answer2: Laser;
+:answer3: Explosion;
+:correct: 1
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg5.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: EU certification mark;
+:answer2: European Norms Electrical Certification;
+:answer3: UL component mark for US and Canada;
+:correct: 3
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg6.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Laser;
+:answer2: Explosion;
+:answer3: High voltage;
+:correct: 1
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg7.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: High temperature;
+:answer2: Hot surface;
+:answer3: General warning;
+:correct: 1
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg8.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: EU certification mark;
+:answer2: European Norms Electrical Certification;
+:answer3: Electrostatic discharge;
+:correct: 1
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg9.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: Burn;
+:answer2: Explosion;
+:answer3: Laser;
+:correct: 2
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg10.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: General warning;
+:answer2: Hot surface;
+:answer3: Fragile;
+:correct: 2
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg11.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
+
+```{mchoice}
+:answer1: UL component mark for US and Canada
+:answer2: EU certification mark;
+:answer3: European Norms Electrical Certification;
+:correct: 3
+
+Select the correct label corresponding to pictogram
+```{image} images/Qimg12.png
+:width: 100px
+:align: center
+:alt: Diagrama do exercício de arrastar e soltar.
+```
 <!-- Labels and final solution list:
 
 1. Electrostatic discharge  
