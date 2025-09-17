@@ -19,7 +19,7 @@ Students participating in this activity should already be familiar with the comp
 - Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
 - Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
 
-# Course Description
+## Course Description
 
 In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
 
