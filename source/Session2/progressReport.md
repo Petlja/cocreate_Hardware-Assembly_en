@@ -1,10 +1,11 @@
 # Progress Report
 
-At session end, record group progress and individual contributions in the classroom journal.
+You did a great job today! 
 
-```{suggestionnote}
-**It makes more sense that they download a doc so they can edit it at any point in time and alter it when they figure out they could add more. With popup its just one time thing.**
-```
+Please take a moment to reflect, in groups, on your progress and share how today’s work went: what you accomplished, how each group member contributed, whether the collaboration was effective and what could be improved, what you learned, and what you plan for the next steps.
+
+Answer each question as fully as possible so your teacher can better appreciate your progress.
+
 
 ```{raw} html
 <div style="text-align: center">
