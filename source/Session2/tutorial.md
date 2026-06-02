@@ -1,9 +1,5 @@
 # Developing a Disassembly Tutorial
 
-In this session you will:
-- Collaborate in your groups to safely **disassemble a computer**.
-- Develop a **disassembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
-
 ## Disassembly & Assembly Tutorial Template:
 
 Use the **Disassembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.
