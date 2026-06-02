@@ -1,5 +1,11 @@
 # Assembly instructions
 
+In this session:
+- Collaborate to safely **assemble a computer**
+- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
+- Collaborate in your groups to safely **assemble a computer**.
+- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
+
 Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
 
 It is a systematic process. Start by arranging the computer parts.
