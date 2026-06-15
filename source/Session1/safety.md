@@ -62,12 +62,21 @@ To prevent accidents, it is necessary to:
 It is important to know and respect the warning signs that appear on different elements.
 
 
-```{image} images/safety1.png
+```{image} images/safety1-1.png
 :width: 90%
 :align: center
 :alt: Image contains various safety warning signs.
 ```
-
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
+```{image} images/safety1-3.png
+:width: 90%
+:align: center
+:alt: Image contains various safety warning signs.
+```
 ```{image} images/safety2.png
 :width: 80%
 :align: center

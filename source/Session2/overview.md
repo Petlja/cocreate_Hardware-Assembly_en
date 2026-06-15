@@ -1,8 +1,10 @@
 # Disassembly instructions
 
+```{suggestionnote}
 In this session you will:
 - Collaborate in your groups to safely **disassemble a computer**.
 - Develop a **disassembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
+```
 
 Disassembly breaks a device into separate parts.
 
