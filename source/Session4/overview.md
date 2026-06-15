@@ -38,9 +38,4 @@ Materials required:
 
 ## Submit your final product
 
-Review the completed template as a group, download it, and submit it in Google Classroom.
-
-```{suggestionnote}
-**Google Classroom????**
-```
-
+Review the completed template as a group, download it, and submit it.
