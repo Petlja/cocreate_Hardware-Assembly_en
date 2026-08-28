@@ -214,7 +214,7 @@ In the event of an injury, it is advisable to contact the person responsible for
 
 On the following sheet 👇, you will find a **summary of the Safety Rules for Computer Assembly and Disassembly**, which you should use as a reference throughout all upcoming sessions:
 
-```{image} images/Safety_Rules_Sheet.png
+```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
 :alt: Summary of the Safety Rules for Computer Assembly and Disassembly.
