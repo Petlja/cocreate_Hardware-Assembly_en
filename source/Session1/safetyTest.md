@@ -204,9 +204,5 @@ In the groups you formed for the following sessions, discuss and find solutions 
 
 2. Regarding fire extinguishing systems, what type of extinguisher would you use to put out a fire that started in an open PC you were repairing?
 
-3. Suppose that while trying to put out the fire mentioned above, your colleague burned their hand and arm. What first aid measures would you take?
-
-4. In another piece of equipment, when removing the power supply, you cut your finger. What first aid measures would you take?
-
-5. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
+3. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
 
