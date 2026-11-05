@@ -1,206 +1,208 @@
-# What have you learned
+# Qué has aprendido
 
-## Exercise 1:
+- Ejercicio 1: Responde a las preguntas individualmente con tus propias palabras.
+- Ejercicio 2: Relaciona los pictogramas con su significado arrastrando y soltando.
 
-Answer questions in pairs or in groups, in your own words.
-1. How would you define workplace safety and its goal?
-2. What measures should be taken to prevent accidents?
-3. What must the environmental setting guarantee as a general risk factor?
-4. What is a comfortable situation?
-5. What does psychic comfort depend on, and what issues can appear in the short, medium, and long term if it is not achieved?
-6. What do you think are the most important general risk factors in computer handling? Justify your answer.
+Ejercicio 1:
+Responded a las preguntas en parejas o en grupos, con vuestras propias palabras.
 
-## Exercise 2:
+1. ¿Cómo definiríais la seguridad laboral y cuál es su objetivo?
+2. ¿Qué medidas hay que tomar para prevenir accidentes?
+3. ¿Qué debe garantizar el entorno ambiental como factor de riesgo general?
+4. ¿Qué es una situación confortable?
+5. ¿De qué depende el confort psíquico y qué problemas pueden aparecer a corto, medio y largo plazo si no se consigue?
+6. ¿Cuáles creéis que son los factores de riesgo generales más importantes en la manipulación de ordenadores? Justificad vuestra respuesta.
+
+## Ejercicio 2:
 
 <!-- ```{infonote} 
-**We need external drag and drop functionality short term!!!**
+**Necessitem funcionalitat externa d'arrossegar i deixar anar a curt termini!!!**
 ```
 
 ```{image} images/Lesson_1_Ex_2_Task.png
 :width: 100%
 :align: center
-:alt: Diagram of the drag and drop exercise.
+:alt: Diagrama de l'exercici d'arrossegar i deixar anar.
 ``` -->
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Hot surface;
-:answer3: Burn;
+:answer1: Descarga electrostática;
+:answer2: Superficie caliente;
+:answer3: Quemadura;
 :correct: 1
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg1.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+``````````````{image} images/Qimg1.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Láser;
+:answer2: Advertencia general;
+:answer3: Alta tensión;
 :correct: 2
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg2.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+`````````````{image} images/Qimg2.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Burn;
-:answer3: Hot surface;
+:answer1: Descarga electrostática;
+:answer2: Quemadura;
+:answer3: Superficie caliente;
 :correct: 2
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg3.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+````````````{image} images/Qimg3.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Marca de certificación de la UE;
+:answer2: Advertencia general;
+:answer3: Alta tensión;
 :correct: 3
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg4.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+```````````{image} images/Qimg4.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Fragile;
-:answer2: Laser;
-:answer3: Explosion;
+:answer1: Frágil;
+:answer2: Láser;
+:answer3: Explosión;
 :correct: 1
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg5.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+``````````{image} images/Qimg5.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: UL component mark for US and Canada;
+:answer1: Marca de certificación de la UE;
+:answer2: Certificación eléctrica de normas europeas;
+:answer3: Marca de componente UL para EE. UU. y Canadá;
 :correct: 3
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg6.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+`````````{image} images/Qimg6.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: Explosion;
-:answer3: High voltage;
+:answer1: Láser;
+:answer2: Explosión;
+:answer3: Alta tensión;
 :correct: 1
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg7.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+````````{image} images/Qimg7.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: High temperature;
-:answer2: Hot surface;
-:answer3: General warning;
+:answer1: Alta temperatura;
+:answer2: Superficie caliente;
+:answer3: Advertencia general;
 :correct: 1
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg8.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+```````{image} images/Qimg8.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: Electrostatic discharge;
+:answer1: Marca de certificación de la UE;
+:answer2: Certificación eléctrica de normas europeas;
+:answer3: Descarga electrostática;
 :correct: 1
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg9.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+``````{image} images/Qimg9.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: Burn;
-:answer2: Explosion;
-:answer3: Laser;
+:answer1: Quemadura;
+:answer2: Explosión;
+:answer3: Láser;
 :correct: 2
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg10.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+`````{image} images/Qimg10.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: General warning;
-:answer2: Hot surface;
-:answer3: Fragile;
+:answer1: Advertencia general;
+:answer2: Superficie caliente;
+:answer3: Frágil;
 :correct: 2
 
-Select the correct label corresponding to pictogram
-```{image} images/Qimg11.png
+Selecciona la etiqueta correcta correspondiente al pictograma
+````{image} images/Qimg11.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
 
 ```{mchoice}
-:answer1: UL component mark for US and Canada
-:answer2: EU certification mark;
-:answer3: European Norms Electrical Certification;
+:answer1: Marca de componente UL para EE. UU. y Canadá
+:answer2: Marca de certificación de la UE;
+:answer3: Certificación eléctrica de normas europeas;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Selecciona la etiqueta correcta correspondiente al pictograma
 ```{image} images/Qimg12.png
 :width: 100px
 :align: center
-:alt: Diagrama do exercício de arrastar e soltar.
+:alt: Diagrama del ejercicio de arrastrar y soltar.
 ```
-<!-- Labels and final solution list:
+<!-- Etiquetas y lista de soluciones finales:
 
-1. Electrostatic discharge  
-2. High Voltage Electrical hazard  
-3. Laser hazard  
-4. Explosion hazard  
-5. General warning  
-6. Fragile hazard  
-7. High temperature hazard  
-8. Hot surface hazard  
-9. Burn hazard  
-10. UL component mark for the US and Canada  
-11. EU certification mark  
-12. European Norms Electrical Certification -->
+1. Descarga electrostática  
+2. Riesgo eléctrico de alta tensión  
+3. Riesgo de láser  
+4. Riesgo de explosión  
+5. Advertencia general  
+6. Riesgo de fragilidad  
+7. Riesgo de alta temperatura  
+8. Riesgo de superficie caliente  
+9. Riesgo de quemadura  
+10. Marca de componente UL para EE. UU. y Canadá  
+11. Marca de certificación de la UE  
+12. Certificación eléctrica de normas europeas -->
 
+## Ejercicio 3: 
 
-## Exercise 3: 
+En los grupos que habéis formado para las sesiones siguientes, debatid y encontrad soluciones a las situaciones propuestas. Tendréis 7 minutos para esta tarea. Después, cada grupo presentará sus soluciones a toda la clase.
 
-In the groups you formed for the following sessions, discuss and find solutions to the given situations. You will have 7 minutes for this task. Afterwards, each group will present its solutions to the whole class.
+1. Acaba de llegar al taller un equipo para reparar y hay que abrirlo para ver qué falla, ya que no se enciende. ¿Qué precauciones debéis tomar? Explica cada una.
 
-1. A piece of equipment has just arrived at the workshop for repair, and you need to open it to see what’s wrong since it won’t start. What precautions should you take? Explain each one.
+2. En cuanto a los sistemas de extinción de incendios, ¿qué tipo de extintor utilizarías para apagar un fuego iniciado en un PC abierto que estabas reparando?
 
-2. Regarding fire extinguishing systems, what type of extinguisher would you use to put out a fire that started in an open PC you were repairing?
-
-3. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
+3. ¿Qué equipo de protección básico debe utilizarse en el taller para reducir los riesgos asociados a los equipos informáticos?
 
